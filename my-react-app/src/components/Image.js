@@ -10,11 +10,11 @@ export function Image(){
 
 export default function Images(){
     return(
-        <div className="gallery">
+        <>
             <h1>Eagles</h1>
             <Image/>
             <Image/>
             <Image/>
-        </div>
+        </>
     );
 }

@@ -1,9 +1,5 @@
 .image{
-    border-radius: 100%;
+    border-radius: 25%;
     border-color: blue;
     border-width: 10px;
-}
-
-.gallery{
-   align-items: center;
 }
